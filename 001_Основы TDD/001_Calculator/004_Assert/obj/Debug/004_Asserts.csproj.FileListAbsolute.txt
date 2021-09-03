@@ -1,0 +1,3 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\004_Assert\bin\Debug\004_Assert.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\004_Assert\obj\Debug\004_Assert.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\004_Assert\obj\Debug\004_Assert.pdb

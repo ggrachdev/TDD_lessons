@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\bin\Release\ExtractAndOverride.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\bin\Release\ExtractAndOverride.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\bin\Release\ExtractAndOverride.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\bin\Release\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\bin\Release\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\obj\Release\ExtractAndOverride.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\obj\Release\ExtractAndOverride.pdb

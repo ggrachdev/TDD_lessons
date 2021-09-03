@@ -1,0 +1,5 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\011_Encapsulation\bin\Release\011_Encapsulation.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\011_Encapsulation\bin\Release\011_Encapsulation.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\011_Encapsulation\bin\Release\011_Encapsulation.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\011_Encapsulation\obj\Release\011_Encapsulation.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\011_Encapsulation\obj\Release\011_Encapsulation.pdb

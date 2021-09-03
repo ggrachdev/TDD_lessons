@@ -1,0 +1,22 @@
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.exe
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.exe
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\002_ConstructorInjection\bin\Debug\nunit.framework.dll
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\bin\Debug\nunit.framework.dll
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\002_ConstructorInjection\bin\Debug\002_ConstructorInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\002_ConstructorInjection\obj\Debug\002_ConstructorInjection.csprojResolveAssemblyReference.cache

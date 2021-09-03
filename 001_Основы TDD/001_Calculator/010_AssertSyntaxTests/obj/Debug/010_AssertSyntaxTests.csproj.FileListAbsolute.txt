@@ -1,0 +1,13 @@
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\010_AssertSyntaxTests.dll
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\010_AssertSyntaxTests.pdb
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\nunit.framework.dll
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\nunit.framework.xml
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\obj\Debug\010_AssertSyntaxTests.dll
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\obj\Debug\010_AssertSyntaxTests.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\010_AssertSyntaxTests.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\010_AssertSyntaxTests.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\obj\Debug\010_AssertSyntaxTests.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\obj\Debug\010_AssertSyntaxTests.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\010_AssertSyntaxTests\obj\Debug\010_AssertSyntaxTests.csprojResolveAssemblyReference.cache

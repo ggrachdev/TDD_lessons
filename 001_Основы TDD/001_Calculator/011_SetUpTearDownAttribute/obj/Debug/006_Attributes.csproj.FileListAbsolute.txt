@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\011_SetUpTearDownAttribute\bin\Debug\011_SetUpTearDownAttribute.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\011_SetUpTearDownAttribute\bin\Debug\011_SetUpTearDownAttribute.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\011_SetUpTearDownAttribute\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\011_SetUpTearDownAttribute\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\011_SetUpTearDownAttribute\obj\Debug\006_Attributes.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\011_SetUpTearDownAttribute\obj\Debug\011_SetUpTearDownAttribute.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\011_SetUpTearDownAttribute\obj\Debug\011_SetUpTearDownAttribute.pdb

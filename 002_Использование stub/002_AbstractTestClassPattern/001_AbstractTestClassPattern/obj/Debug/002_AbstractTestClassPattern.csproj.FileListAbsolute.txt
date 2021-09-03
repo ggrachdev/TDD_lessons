@@ -1,0 +1,1 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 4. Isolation Frameworks\002_AbstractTestClassPattern\002_AbstractTestClassPattern\bin\Debug\002_AbstractTestClassPattern.exe.config

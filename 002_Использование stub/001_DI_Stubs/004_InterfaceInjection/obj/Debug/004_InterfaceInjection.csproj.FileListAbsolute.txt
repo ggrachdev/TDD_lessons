@@ -1,0 +1,19 @@
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\004_InterfaceInjection\bin\Debug\004_InterfaceInjection.exe
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\004_InterfaceInjection\bin\Debug\004_InterfaceInjection.pdb
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.exe
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.pdb
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\004_InterfaceInjection\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.csprojResolveAssemblyReference.cache
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\bin\Debug\004_InterfaceInjection.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\bin\Debug\004_InterfaceInjection.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\bin\Debug\nunit.framework.dll
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\bin\Debug\004_InterfaceInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\bin\Debug\004_InterfaceInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\004_InterfaceInjection\obj\Debug\004_InterfaceInjection.pdb

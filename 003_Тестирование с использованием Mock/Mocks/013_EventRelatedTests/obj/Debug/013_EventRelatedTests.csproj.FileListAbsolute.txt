@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\bin\Debug\013_EventRelatedTests.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\bin\Debug\013_EventRelatedTests.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\bin\Debug\013_EventRelatedTests.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\obj\Debug\013_EventRelatedTests.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\obj\Debug\013_EventRelatedTests.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\obj\Debug\013_EventRelatedTests.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\bin\Debug\Rhino.Mocks.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\013_EventRelatedTests\bin\Debug\Rhino.Mocks.xml

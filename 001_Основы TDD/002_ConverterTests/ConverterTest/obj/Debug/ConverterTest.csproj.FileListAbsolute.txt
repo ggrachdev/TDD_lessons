@@ -1,0 +1,17 @@
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\bin\Debug\ConverterTest.dll
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\bin\Debug\ConverterTest.pdb
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\bin\Debug\Converter.dll
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\bin\Debug\Converter.pdb
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\obj\Debug\ConverterTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\obj\Debug\ConverterTest.dll
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\obj\Debug\ConverterTest.pdb
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\TDD\001_TDD\ConverterTest\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\bin\Debug\ConverterTest.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\bin\Debug\ConverterTest.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\bin\Debug\Converter.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\bin\Debug\Converter.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\obj\Debug\ConverterTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\obj\Debug\ConverterTest.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\ConverterTest\obj\Debug\ConverterTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\bin\Release\001_Problem.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\bin\Release\001_Problem.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Release\001_Problem.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Release\001_Problem.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\obj\Release\001_Problem.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\obj\Release\001_Problem.pdb

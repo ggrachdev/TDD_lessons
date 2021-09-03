@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Courses\TDD\MyMath\MyMath\bin\Debug\MyMath.dll
+C:\Users\David\Documents\Courses\TDD\MyMath\MyMath\bin\Debug\MyMath.pdb
+C:\Users\David\Documents\Courses\TDD\MyMath\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\TDD\MyMath\MyMath\obj\Debug\MyMath.dll
+C:\Users\David\Documents\Courses\TDD\MyMath\MyMath\obj\Debug\MyMath.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\003_TestFirst\MyMath\bin\Debug\MyMath.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\003_TestFirst\MyMath\bin\Debug\MyMath.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\003_TestFirst\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\003_TestFirst\MyMath\obj\Debug\MyMath.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\003_TestFirst\MyMath\obj\Debug\MyMath.pdb

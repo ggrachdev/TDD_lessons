@@ -1,0 +1,7 @@
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\004_Calculator_Assert\bin\Debug\004_Calculator_Assert.exe
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\004_Calculator_Assert\bin\Debug\004_Calculator_Assert.pdb
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\004_Calculator_Assert\obj\Debug\004_Calculator_Assert.csprojResolveAssemblyReference.cache
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\004_Calculator_Assert\obj\Debug\004_Calculator_Assert.exe
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\004_Calculator_Assert\obj\Debug\004_Calculator_Assert.pdb
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\004_Calculator_Assert\bin\Debug\nunit.framework.dll
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\004_Calculator_Assert\bin\Debug\nunit.framework.xml

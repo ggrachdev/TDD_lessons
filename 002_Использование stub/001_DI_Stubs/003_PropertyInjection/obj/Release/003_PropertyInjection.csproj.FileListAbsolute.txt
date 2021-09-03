@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Release\003_PropertyInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Release\003_PropertyInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Release\003_PropertyInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Release\003_PropertyInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Release\003_PropertyInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Release\nunit.framework.dll

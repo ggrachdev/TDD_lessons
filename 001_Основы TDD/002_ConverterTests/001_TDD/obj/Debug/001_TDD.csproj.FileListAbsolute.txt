@@ -1,0 +1,8 @@
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\bin\Debug\001_TDD.exe.config
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\bin\Debug\001_TDD.exe
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\bin\Debug\001_TDD.pdb
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\obj\Debug\001_TDD.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\obj\Debug\001_TDD.exe
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\obj\Debug\001_TDD.pdb
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\bin\Debug\Converter.dll
+C:\Users\David\Documents\Courses\TDD\001_TDD\001_TDD\bin\Debug\Converter.pdb

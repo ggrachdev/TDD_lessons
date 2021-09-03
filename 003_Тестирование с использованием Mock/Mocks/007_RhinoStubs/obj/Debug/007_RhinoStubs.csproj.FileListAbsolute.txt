@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\bin\Debug\007_RhinoStubs.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\bin\Debug\007_RhinoStubs.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\bin\Debug\007_RhinoStubs.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\bin\Debug\Rhino.Mocks.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\bin\Debug\Rhino.Mocks.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\obj\Debug\007_RhinoStubs.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\obj\Debug\007_RhinoStubs.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\007_RhinoStubs\obj\Debug\007_RhinoStubs.pdb

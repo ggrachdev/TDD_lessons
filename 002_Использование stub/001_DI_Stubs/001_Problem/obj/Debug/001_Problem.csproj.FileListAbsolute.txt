@@ -1,0 +1,24 @@
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\001_Problem\bin\Debug\001_Problem.exe
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\001_Problem\bin\Debug\001_Problem.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\001_Problem\obj\Debug\001_Problem.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\001_Problem\obj\Debug\001_Problem.exe
+c:\users\alexander\documents\visual studio 2012\Projects\001_Problem\001_Problem\obj\Debug\001_Problem.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_Problem\001_Problem\obj\Debug\001_Problem.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_Problem\001_Problem\obj\Debug\001_Problem.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Debug\001_Problem.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Debug\001_Problem.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\bin\Debug\001_Problem.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\bin\Debug\001_Problem.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Debug\001_Problem.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Debug\001_Problem.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Debug\001_Problem.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\bin\Debug\001_Problem.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\bin\Debug\001_Problem.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\001_Problem\obj\Debug\001_Problem.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\obj\Debug\001_Problem.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\obj\Debug\001_Problem.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\obj\Debug\001_Problem.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\bin\Debug\001_Problem.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\bin\Debug\001_Problem.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\001_Problem\bin\Debug\nunit.framework.xml

@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\002_Calculator_NUnit\bin\Debug\002_Calculator_NUnit.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\002_Calculator_NUnit\bin\Debug\002_Calculator_NUnit.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\002_Calculator_NUnit\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\002_Calculator_NUnit\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\002_Calculator_NUnit\obj\Debug\003_Calculator_NUnit.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\002_Calculator_NUnit\obj\Debug\002_Calculator_NUnit.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\002_Calculator_NUnit\obj\Debug\002_Calculator_NUnit.pdb

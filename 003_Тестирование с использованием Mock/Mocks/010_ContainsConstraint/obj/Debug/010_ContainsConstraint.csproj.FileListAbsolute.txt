@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\bin\Debug\010_ContainsConstraint.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\bin\Debug\010_ContainsConstraint.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\bin\Debug\010_ContainsConstraint.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\bin\Debug\Rhino.Mocks.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\bin\Debug\Rhino.Mocks.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\obj\Debug\010_ContainsConstraint.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\obj\Debug\010_ContainsConstraint.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\010_ContainsConstraint\obj\Debug\010_ContainsConstraint.pdb

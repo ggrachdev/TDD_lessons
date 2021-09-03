@@ -1,0 +1,8 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\bin\Debug\001_Mocks.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\obj\Debug\001_Mocks.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\bin\Debug\001_Mocks.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\bin\Debug\001_Mocks.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\obj\Debug\001_Mocks.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\obj\Debug\001_Mocks.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\001_Mocks\bin\Debug\nunit.framework.xml

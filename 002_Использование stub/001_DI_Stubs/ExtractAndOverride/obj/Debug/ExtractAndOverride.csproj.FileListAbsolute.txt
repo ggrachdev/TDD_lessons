@@ -1,0 +1,1 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\bin\Debug\ExtractAndOverride.exe.config

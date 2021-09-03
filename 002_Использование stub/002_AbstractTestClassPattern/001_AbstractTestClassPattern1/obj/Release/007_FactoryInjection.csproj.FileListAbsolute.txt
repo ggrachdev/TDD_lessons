@@ -1,0 +1,2 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\007_FactoryInjection\bin\Release\007_FactoryInjection.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\007_FactoryInjection\obj\Release\007_FactoryInjection.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\015_EventTriggeredTest.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\015_EventTriggeredTest.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\015_EventTriggeredTest.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\Rhino.Mocks.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\Rhino.Mocks.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\obj\Debug\015_EventTriggeredTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\obj\Debug\015_EventTriggeredTest.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\obj\Debug\015_EventTriggeredTest.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\EventsVerifier.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\015_EventTriggeredTest\bin\Debug\EventsVerifier.pdb

@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental2\VideoRental2\bin\Debug\VideoRental2.exe.config
+C:\Users\David\Desktop\VideoRental6\VideoRental2\VideoRental2\bin\Debug\VideoRental2.dll.config
+C:\Users\David\Desktop\VideoRental6\VideoRental2\VideoRental2\bin\Debug\VideoRental2.dll
+C:\Users\David\Desktop\VideoRental6\VideoRental2\VideoRental2\bin\Debug\VideoRental2.pdb
+C:\Users\David\Desktop\VideoRental6\VideoRental2\VideoRental2\obj\Debug\VideoRental2.dll
+C:\Users\David\Desktop\VideoRental6\VideoRental2\VideoRental2\obj\Debug\VideoRental2.pdb
+C:\Users\David\Desktop\VideoRental6\VideoRental2\VideoRental2\obj\Debug\VideoRental2.csprojResolveAssemblyReference.cache

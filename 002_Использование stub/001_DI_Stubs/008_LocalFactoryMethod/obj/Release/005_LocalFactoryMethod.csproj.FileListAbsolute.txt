@@ -1,0 +1,8 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\bin\Release\008_LocalFactoryMethod.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\bin\Release\008_LocalFactoryMethod.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\bin\Release\008_LocalFactoryMethod.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\bin\Release\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\bin\Release\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\obj\Release\005_LocalFactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\obj\Release\008_LocalFactoryMethod.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_LocalFactoryMethod\obj\Release\008_LocalFactoryMethod.pdb

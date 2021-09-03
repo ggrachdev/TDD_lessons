@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental\bin\Debug\VideoRental.dll
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental\bin\Debug\VideoRental.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental\obj\Debug\VideoRental.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental\obj\Debug\VideoRental.dll
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental\obj\Debug\VideoRental.pdb
+C:\Users\David\Desktop\VideoRental\VideoRental\bin\Debug\VideoRental.dll
+C:\Users\David\Desktop\VideoRental\VideoRental\bin\Debug\VideoRental.pdb
+C:\Users\David\Desktop\VideoRental\VideoRental\obj\Debug\VideoRental.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\VideoRental\VideoRental\obj\Debug\VideoRental.dll
+C:\Users\David\Desktop\VideoRental\VideoRental\obj\Debug\VideoRental.pdb

@@ -1,0 +1,33 @@
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\bin\Debug\UsingVideoRental.exe.config
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\bin\Debug\UsingVideoRental.exe
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\bin\Debug\UsingVideoRental.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\bin\Debug\VideoRental2.dll
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\bin\Debug\VideoRental2.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\obj\Debug\UsingVideoRental.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\obj\Debug\UsingVideoRental.exe
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental4\UsingVideoRental\obj\Debug\UsingVideoRental.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\bin\Debug\UsingVideoRental.exe.config
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\obj\Debug\UsingVideoRental.exe
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\obj\Debug\UsingVideoRental.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\bin\Debug\UsingVideoRental.exe
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\bin\Debug\UsingVideoRental.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\bin\Debug\VideoRental2.dll
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\bin\Debug\VideoRental2.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\obj\Debug\UsingVideoRental.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\bin\Debug\UsingVideoRental.exe.config
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\obj\Debug\UsingVideoRental.exe
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\NewExamplesToFirstLesson\VideoRental5\UsingVideoRental\obj\Debug\UsingVideoRental.pdb
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\NewExamplesToFirstLesson\VideoRental6\UsingVideoRental\bin\Debug\UsingVideoRental.exe.config
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\NewExamplesToFirstLesson\VideoRental6\UsingVideoRental\obj\Debug\UsingVideoRental.exe
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\NewExamplesToFirstLesson\VideoRental6\UsingVideoRental\obj\Debug\UsingVideoRental.pdb
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\bin\Debug\UsingVideoRental.exe.config
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\obj\Debug\UsingVideoRental.exe
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\obj\Debug\UsingVideoRental.pdb
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\obj\Debug\UsingVideoRental.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\bin\Debug\UsingVideoRental.exe
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\bin\Debug\UsingVideoRental.pdb
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\bin\Debug\VideoRental2.dll
+C:\Users\David\Desktop\VideoRental6\UsingVideoRental\bin\Debug\VideoRental2.pdb
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\VideoRental4\UsingVideoRental\bin\Debug\UsingVideoRental.exe.config
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\VideoRental4\UsingVideoRental\obj\Debug\UsingVideoRental.exe
+C:\Users\David\Documents\Courses\TDD\Student\Урок 4. Практика TDD\VideoRental4\UsingVideoRental\obj\Debug\UsingVideoRental.pdb

@@ -1,0 +1,24 @@
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\003_PropertyInjection\bin\Debug\003_PropertyInjection.exe
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\003_PropertyInjection\bin\Debug\003_PropertyInjection.pdb
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\003_PropertyInjection\obj\Debug\003_PropertyInjection.exe
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\003_PropertyInjection\obj\Debug\003_PropertyInjection.pdb
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\003_PropertyInjection\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\003_PropertyInjection\obj\Debug\003_PropertyInjection.csprojResolveAssemblyReference.cache
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Debug\003_PropertyInjection.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Debug\003_PropertyInjection.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Debug\nunit.framework.dll
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Debug\003_PropertyInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Debug\003_PropertyInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\003_PropertyInjection\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\003_PropertyInjection\bin\Debug\003_PropertyInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\003_PropertyInjection\bin\Debug\003_PropertyInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\003_PropertyInjection\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\003_PropertyInjection\obj\Debug\003_PropertyInjection.csprojResolveAssemblyReference.cache

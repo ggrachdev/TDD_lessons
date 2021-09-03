@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 4. Isolation Frameworks\002_AbstractTestClassPattern\007_FactoryInjection\obj\Debug\001_AbstractTestClassPattern.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 4. Isolation Frameworks\002_AbstractTestClassPattern\007_FactoryInjection\obj\Debug\007_FactoryInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 4. Isolation Frameworks\002_AbstractTestClassPattern\007_FactoryInjection\obj\Debug\007_FactoryInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 4. Isolation Frameworks\002_AbstractTestClassPattern\007_FactoryInjection\bin\Debug\007_FactoryInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 4. Isolation Frameworks\002_AbstractTestClassPattern\007_FactoryInjection\bin\Debug\007_FactoryInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 4. Isolation Frameworks\002_AbstractTestClassPattern\007_FactoryInjection\bin\Debug\nunit.framework.xml

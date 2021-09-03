@@ -1,0 +1,8 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\bin\Debug\012_ExpectedExceptions.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\obj\Debug\012_ExpectedExceptions.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\bin\Debug\012_ExpectedExceptions.dll.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\bin\Debug\012_ExpectedExceptions.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\obj\Debug\012_ExpectedExceptions.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\001_Calculator\012_ExpectedExceptions\obj\Debug\012_ExpectedExceptions.csprojResolveAssemblyReference.cache

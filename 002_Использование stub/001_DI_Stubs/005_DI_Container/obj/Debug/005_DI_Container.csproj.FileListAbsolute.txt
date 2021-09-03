@@ -1,0 +1,20 @@
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\bin\Debug\005_DI_Container.exe
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\bin\Debug\005_DI_Container.pdb
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\obj\Debug\005_DI_Container.exe
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\obj\Debug\005_DI_Container.pdb
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\001_Problem\005_DI_Container\obj\Debug\005_DI_Container.csprojResolveAssemblyReference.cache
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\bin\Debug\005_DI_Container.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\bin\Debug\005_DI_Container.pdb
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\bin\Debug\nunit.framework.dll
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.csprojResolveAssemblyReference.cache
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.exe
+D:\CBS\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\bin\Debug\005_DI_Container.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\bin\Debug\005_DI_Container.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.csprojResolveAssemblyReference.cache

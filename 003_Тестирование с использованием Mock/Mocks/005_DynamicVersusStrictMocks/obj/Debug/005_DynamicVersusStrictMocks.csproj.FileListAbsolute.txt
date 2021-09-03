@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\bin\Debug\005_DynamicVersusStrictMocks.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\bin\Debug\005_DynamicVersusStrictMocks.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\bin\Debug\005_DynamicVersusStrictMocks.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\bin\Debug\Rhino.Mocks.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\bin\Debug\Rhino.Mocks.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\obj\Debug\005_DynamicVersusStrictMocks.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 3. Использование Mock-объектов\Mocks\005_DynamicVersusStrictMocks\obj\Debug\005_DynamicVersusStrictMocks.pdb

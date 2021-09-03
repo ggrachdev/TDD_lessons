@@ -1,0 +1,1 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\002_ConstructorInjection\obj\Release\002_ConstructorInjection.csprojResolveAssemblyReference.cache

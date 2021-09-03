@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_AbsFactoryInjection\bin\Release\008_AbsFactoryInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_AbsFactoryInjection\bin\Release\008_AbsFactoryInjection.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_AbsFactoryInjection\bin\Release\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_AbsFactoryInjection\bin\Release\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_AbsFactoryInjection\obj\Release\008_AbsFactoryInjection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_AbsFactoryInjection\obj\Release\008_AbsFactoryInjection.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\008_AbsFactoryInjection\obj\Release\008_AbsFactoryInjection.pdb

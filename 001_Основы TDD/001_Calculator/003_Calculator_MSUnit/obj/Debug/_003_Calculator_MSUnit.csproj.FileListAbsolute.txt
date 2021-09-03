@@ -1,0 +1,4 @@
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\003_Calculator_MSUnit\obj\Debug\003_Calculator_MSUnit.exe
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\003_Calculator_MSUnit\obj\Debug\003_Calculator_MSUnit.pdb
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\003_Calculator_MSUnit\bin\Debug\003_Calculator_MSUnit.exe
+D:\CBS\Test-Driven Developmet\Урок 1. Основы Unit тестиования\FOR_STUDENTS\001_Calculator\003_Calculator_MSUnit\bin\Debug\003_Calculator_MSUnit.pdb

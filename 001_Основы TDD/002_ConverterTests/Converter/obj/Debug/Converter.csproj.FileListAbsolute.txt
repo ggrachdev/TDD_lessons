@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Courses\TDD\001_TDD\Converter\bin\Debug\Converter.dll
+C:\Users\David\Documents\Courses\TDD\001_TDD\Converter\bin\Debug\Converter.pdb
+C:\Users\David\Documents\Courses\TDD\001_TDD\Converter\obj\Debug\Converter.dll
+C:\Users\David\Documents\Courses\TDD\001_TDD\Converter\obj\Debug\Converter.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\Converter\bin\Debug\Converter.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\Converter\bin\Debug\Converter.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\Converter\obj\Debug\Converter.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 1. Основы Unit тестиования\002_ConverterTests\Converter\obj\Debug\Converter.pdb

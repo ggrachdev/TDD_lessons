@@ -1,0 +1,4 @@
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental2\bin\Release\VideoRental2.dll
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental2\bin\Release\VideoRental2.pdb
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental2\obj\Release\VideoRental2.dll
+C:\Users\David\Documents\Courses\TDD\Student\NewExamplesToFirstLesson\VideoRental\VideoRental2\obj\Release\VideoRental2.pdb
